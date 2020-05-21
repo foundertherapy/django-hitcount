@@ -6,7 +6,7 @@ from django.db import migrations, models
 class Migration(migrations.Migration):
 
     dependencies = [
-        ('hitcount', '0002_index_ip_and_session'),
+        ('hitcount', '0003_auto_20190608_1004'),
     ]
 
     operations = [
